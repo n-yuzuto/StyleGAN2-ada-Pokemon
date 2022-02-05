@@ -1,5 +1,5 @@
 # StyleGAN2-ada-Pokemon
-FIDが収束するまで学習が終わり次第、Readmeをまとめます。
+FIDが収束するまで学習が終わり次第、内容を記述します。
 ![生成画像](generate-pokemons.png)
 ![FIDスコアグラフ](stylegan2-ada-fid.png)
 ![Lossグラフ](stylegan2-ada-loss.png)
