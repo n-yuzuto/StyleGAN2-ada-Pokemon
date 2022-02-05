@@ -1,5 +1,6 @@
 # StyleGAN2-ada-Pokemon
 FIDが収束するまで学習が終わり次第、Readmeをまとめます。
-![](generate-pokemons.png)
-![](stylegan2-ada-fid.png)
-![](stylegan2-ada-loss.png)
+![生成画像](generate-pokemons.png)
+![FIDスコアグラフ](stylegan2-ada-fid.png)
+![Lossグラフ](stylegan2-ada-loss.png)
+![メモリ消費量(他のリポジトリも参考）](memory.png)
