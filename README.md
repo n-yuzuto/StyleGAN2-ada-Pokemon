@@ -1,2 +1,4 @@
 # StyleGAN2-ada-Pokemon
-![](400.png)
+![](generate-pokemons.png)
+![](stylegan2-ada-fid.png)
+![](stylegan2-ada-loss.png)
